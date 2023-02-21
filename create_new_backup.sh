@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Author: Gerald Lim Wee Koon (github:mathscantor)
 
