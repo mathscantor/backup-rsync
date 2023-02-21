@@ -1,4 +1,3 @@
-backup_user@backup-storage:/home/root/scripts/backup_scripts $ cat create_new_backup.sh 
 #!/bin/sh
 
 #Author: Gerald Lim Wee Koon (github:mathscantor)
